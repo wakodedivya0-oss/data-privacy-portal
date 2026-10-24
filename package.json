@@ -1,0 +1,10 @@
+{
+  "name": "data-privacy-awareness",
+  "version": "1.0.0",
+  "description": "My Privacy Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}

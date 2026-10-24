@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Phishing & Credential Harvesting",
+    "id_type": "Threat",
+    "tip": "Scammers send deceptive emails pretending to be academic or financial authorities to steal login credentials and passwords."
+  },
+  {
+    "id": 2,
+    "title": "Digital Footprint & Location Tracking",
+    "id_type": "Privacy Risk",
+    "tip": "Unsecured apps and malicious websites track user locations, search histories, and browsing habits without explicit consent."
+  },
+  {
+    "id": 3,
+    "title": "Multi-Factor Authentication (MFA/2FA)",
+    "id_type": "Prevention",
+    "tip": "Always enforce two-step verification across all student and financial portals to prevent unauthorized access even if passwords leak."
+  },
+  {
+    "id": 4,
+    "title": "Public Wi-Fi Security Vulnerabilities",
+    "id_type": "Threat",
+    "tip": "Using open public Wi-Fi networks in cafes or stations without a VPN exposes traffic to packet sniffing and man-in-the-middle attacks."
+  },
+  {
+    "id": 5,
+    "title": "Social Media Oversharing & PII Leaks",
+    "id_type": "Privacy Risk",
+    "tip": "Publishing personal details like phone numbers, schedules, or home addresses on public profiles invites identity theft."
+  },
+  {
+    "id": 6,
+    "title": "Ransomware & Malware Prevention",
+    "id_type": "Prevention",
+    "tip": "Never download attachments or cracked software from unverified sources to protect your system from file encryption malware."
+  },
+  {
+    "id": 7,
+    "title": "Secure Cloud Storage Practices",
+    "id_type": "Best Practice",
+    "tip": "Encrypt sensitive academic documents before uploading them to cloud drives and restrict folder sharing permissions."
+  },
+  {
+    "id": 8,
+    "title": "Identity Theft (2024-2026 Trends)",
+    "id_type": "Threat",
+    "tip": "Advanced AI deepfakes and spoofed identity documents are increasingly used by fraudsters to bypass digital KYC checks."
+  },
+  {
+    "id": 9,
+    "title": "Browser Cookie & Tracker Management",
+    "id_type": "Prevention",
+    "tip": "Regularly clear browser cache and block third-party tracking cookies to stop aggressive online behavioral profiling."
+  },
+  {
+    "id": 10,
+    "title": "Mobile App Permissions Audit",
+    "id_type": "Best Practice",
+    "tip": "Periodically review smartphone settings to revoke unnecessary microphone, camera, and contact access given to mobile apps."
+  },
+  {
+    "id": 11,
+    "title": "Cyber Fraud Reporting Protocol",
+    "id_type": "Action Plan",
+    "tip": "Immediately report financial cyber frauds via the national helpline 1930 or official portal cybercrime.gov.in."
+  },
+  {
+    "id": 12,
+    "title": "Secure E-Commerce & Payment Gateways",
+    "id_type": "Prevention",
+    "tip": "Verify HTTPS status and use virtual credit cards or secure UPI pins while executing online transactions."
+  },
+  {
+    "id": 13,
+    "title": "Field Study Pre & Post Assessments",
+    "id_type": "Methodology",
+    "tip": "Conducting structured questionnaires before and after training sessions to accurately measure student awareness progress."
+  },
+  {
+    "id": 14,
+    "title": "Password Hygiene & Vault Management",
+    "id_type": "Prevention",
+    "tip": "Avoid reusing passwords across multiple platforms; use reputable password managers to generate complex credentials."
+  },
+  {
+    "id": 15,
+    "title": "AI-Driven Social Engineering Awareness",
+    "id_type": "2026 Trend",
+    "tip": "Recognize voice cloning and AI-crafted phishing messages designed specifically to deceive college students."
+  }
+]
